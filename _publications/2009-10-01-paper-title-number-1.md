@@ -6,6 +6,5 @@ excerpt: '3d segmentation and morphology analysis of myelinated axons in white m
 date: 2019-01-01
 venue: 'Scientific reports'
 paperurl: ''
-citation: ''
 ---
 [Download paper here](https://www.nature.com/articles/s41598-019-42648-2)
