@@ -15,4 +15,5 @@ He received his Master’s degree from the Signal Processing department at Tampe
   <img src="/images/acson_seg.png" alt="Myelinated axons in white matter" width="300" height="200">
   <figcaption>Myelinated axons in white matter</figcaption>
 </figure>
+
 ======
