@@ -12,7 +12,7 @@ Ali Abdollahzadeh is a postdoctoral fellow in the NYU MRI Biophysics Group at th
 He received his Master’s degree from the Signal Processing department at Tampere University of Technology, Finland, in 2016. He completed his PhD (with distinction) from the A.I. Virtanen Institute in molecular biology at the University of Eastern Finland in 2021. During his academic pursuits, he successfully developed tools such as ACSON, DeepACSON, and gACSON, designed for the segmentation and morphology analysis of white matter large electron microscopy datasets. The outcomes of his research have been published in international journals and conferences.
 
 <figure style="width: 300px; height: 300px;">
-  <img src="/images/acson_seg1.png" alt="Myelinated axons in white matter" style="width: 600px; height: 200px;" />
+  <img src="/images/acson_seg.png" alt="Myelinated axons in white matter" style="width: 300px; height: 200px;" />
   <figcaption>Segmentation of white matter myelinated axons from 3d-EM volumes</figcaption>
 </figure>
 
