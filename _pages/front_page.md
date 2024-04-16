@@ -1,11 +1,5 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 Understanding macroscopic diffusion MRI data in conjunction with tissue microgeometry, bridging 2-3 orders of magnitudes in resolution. 
 
