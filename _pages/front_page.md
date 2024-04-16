@@ -2,7 +2,7 @@
 permalink: /
 ---
 <figure style="width: 300px; height: 300px;">
-  <img src="/images/acson_seg.png" alt="Myelinated axons in white matter" style="width: 300px; height: 250px;" />
+  <img src="/images/acson_seg.png" alt="Myelinated axons in white matter" style="width: 250px; height: 200px;" />
   <figcaption>Segmentation of white matter myelinated axons from 3d-EM volumes</figcaption>
 </figure>
 
