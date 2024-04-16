@@ -6,6 +6,8 @@ permalink: /
   <figcaption>Segmentation of white matter myelinated axons from 3d-EM volumes</figcaption>
 </figure>
 
+# <span style="font-size: 36px; color: blue; font-weight: bold;">Welcome</span>
+
 
 We are advancing the comprehension of macroscopic diffusion MRI data alongside tissue microgeometry, effectively spanning 2-3 orders of magnitudes in resolution. In our research, we introduced ACSON, DeepACSON, and gACSON, innovative tools crafted for the segmentation and morphology analysis of large white matter electron microscopy datasets. We unravel the intricacies of neural tissue structure and function, paving the way for transformative insights in neuroscience and medical imaging.
 
